@@ -1,0 +1,27 @@
+h1{
+ 
+    font-size: 69px;
+    color: darkcyan;
+    font-family: fantasy;
+}
+.nya{background-color: violet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+}
+
+p{
+ 
+    font-size: 45px;
+    color: darkcyan;
+    font-family: fantasy;
+    text-align: center;
+}
+body{
+    background-color: rgb(255, 114, 225);
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
